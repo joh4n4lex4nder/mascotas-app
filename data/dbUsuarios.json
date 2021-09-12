@@ -1,0 +1,28 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Johan Alexander",
+      "apellido": "Rojas Suarez",
+      "correo": "johanr@gmail.com",
+      "id": 1
+    },
+    {
+      "nombre": "Alexander A",
+      "apellido": "Suarez R",
+      "correo": "alexanders@gmail.com",
+      "id": 2
+    },
+    {
+      "nombre": "Mónica María",
+      "apellido": "Suárez Díaz",
+      "correo": "monica@gmail.com",
+      "id": 3
+    },
+    {
+      "nombre": "Juan Manuel",
+      "apellido": "Rojas Velásquez",
+      "correo": "123@sdfs",
+      "id": 4
+    }
+  ]
+}
